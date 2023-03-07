@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <readme>
-    <en>f96d614ed46722cb1ac0d6ccef6870a1a4684dbe56b492fbf5de113ff1dcc177</en>
-    <pl>811f98103977476f062ab536d48ddce4fc295f658c0a4759f19e6a9f989e8d69</pl>
-    <ru>b2a665b91a18febe5c4ea768f07f76b9743ea0c9e3d622112335415bfe8bfbb6</ru>
+    <en>c0830f2b3d6538ec8c01ca0c70402f76bebb435acbeae20a4b2df7228a79454a</en>
+    <ru>b12e877730732a6a0f1803ca47e21217255e4cb68ab490bbc67f8d49f0df7212</ru>
+    <pl>3b7d3ce758b088d95297a4806ba853f6e7a39cf9ecd6f59ecf9554f2adaa8567</pl>
   </readme>
-  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <license>35c9efafe16721448ce885e3db0edb455686414d71217cbbe39553ebe20512db</license>
   <exercise number="1">
     <scale>major</scale>
     <lowestNote>1</lowestNote>
