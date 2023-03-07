@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <readme>
-    <ru>dbf3c3f81aa4ea618998d977c8c65f056c532e35ea0e38da9bab84a6ad68245b</ru>
+    <ru>a3e704c0fdd4ef4d05ab146dd95614341fc58639504b72e310951333fab72423</ru>
+    <pl>e734baa01d933cee2256c3cedfcca1a75d0ea2075627cbbb385352e56f741df4</pl>
   </readme>
   <license>35c9efafe16721448ce885e3db0edb455686414d71217cbbe39553ebe20512db</license>
   <exercise number="1">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1"/>
+      <note number="2" values="1"/>
+      <note number="3" values="1"/>
+      <note number="4" values="1"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
     <scale>major</scale>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
